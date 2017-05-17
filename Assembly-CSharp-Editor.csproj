@@ -46,6 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Editor\CommonViewExt.cs" />
+     <Compile Include="Assets\Editor\HierarchyViewExt.cs" />
+     <Compile Include="Assets\Editor\MenuItemExtSample.cs" />
+     <Compile Include="Assets\Editor\ProjectViewExt.cs" />
      <Compile Include="Assets\UnityChan\Editor\CreateLocatorHere.cs" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
