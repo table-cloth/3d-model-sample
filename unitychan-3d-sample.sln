@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitychan-3d-sample", "Assembly-CSharp.csproj", "{43D34583-3AB4-C6B3-08EE-206718490893}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitychan-3d-sample", "Assembly-CSharp-Editor.csproj", "{FB8EDAE5-D0CD-EE34-1FD2-9F19BECAA9FE}"
+EndProject
 Project("{1E50782A-B64E-C16E-892E-B1A9AD5793E9}") = "unitychan-3d-sample", "Assembly-UnityScript.unityproj", "{607805A5-E7CB-AFD7-C400-04FB96B930A2}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{43D34583-3AB4-C6B3-08EE-206718490893}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43D34583-3AB4-C6B3-08EE-206718490893}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43D34583-3AB4-C6B3-08EE-206718490893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8EDAE5-D0CD-EE34-1FD2-9F19BECAA9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8EDAE5-D0CD-EE34-1FD2-9F19BECAA9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8EDAE5-D0CD-EE34-1FD2-9F19BECAA9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8EDAE5-D0CD-EE34-1FD2-9F19BECAA9FE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{607805A5-E7CB-AFD7-C400-04FB96B930A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{607805A5-E7CB-AFD7-C400-04FB96B930A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{607805A5-E7CB-AFD7-C400-04FB96B930A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
