@@ -14,8 +14,6 @@
 -r:'/Applications/Unity_5.6.0f3/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll'
 -r:'/Applications/Unity_5.6.0f3/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll'
 -r:'/Applications/Unity_5.6.0f3/Unity.app/Contents/Managed/UnityEditor.dll'
--r:'/Applications/Unity_5.6.0f3/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll'
--r:'/Applications/Unity_5.6.0f3/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll'
 -define:UNITY_5_3_OR_NEWER
 -define:UNITY_5_4_OR_NEWER
 -define:UNITY_5_5_OR_NEWER
@@ -106,6 +104,7 @@
 'Assets/UnityChan/Scripts/SpringManager.cs'
 'Assets/UnityChan/Scripts/ThirdPersonCamera.cs'
 'Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs'
+'Assets/UnityChan/SplashScreen/Scripts/SplashScreen.cs'
 -r:'/Applications/Unity_5.6.0f3/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity_5.6.0f3/Unity.app/Contents/Mono/lib/mono/unity/System.Xml.Linq.dll'
 -r:'/Applications/Unity_5.6.0f3/Unity.app/Contents/Mono/lib/mono/unity/UnityScript.dll'

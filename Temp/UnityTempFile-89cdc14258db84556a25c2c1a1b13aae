@@ -90,6 +90,9 @@
 -define:ENABLE_NATIVE_ARRAY_CHECKS
 -define:UNITY_TEAM_LICENSE
 -define:UNITY_PRO_LICENSE
+'Assets/Locomotion Setup/Locomotion/Scripts/Locomotion.cs'
+'Assets/Locomotion Setup/Scripts/JoystickToEvents.cs'
+'Assets/Locomotion Setup/Scripts/LocomotionPlayer.cs'
 'Assets/UnityChan/Scripts/AutoBlink.cs'
 'Assets/UnityChan/Scripts/AutoBlinkforSD.cs'
 'Assets/UnityChan/Scripts/CameraController.cs'
@@ -103,6 +106,7 @@
 'Assets/UnityChan/Scripts/SpringManager.cs'
 'Assets/UnityChan/Scripts/ThirdPersonCamera.cs'
 'Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs'
+'Assets/UnityChan/SplashScreen/Scripts/SplashScreen.cs'
 -r:'/Applications/Unity_5.6.0f3/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity_5.6.0f3/Unity.app/Contents/Mono/lib/mono/unity/System.Xml.Linq.dll'
 -r:'/Applications/Unity_5.6.0f3/Unity.app/Contents/Mono/lib/mono/unity/UnityScript.dll'
